@@ -206,5 +206,3 @@ with open('output2.csv', 'w', newline='', encoding='utf-8-sig') as file_output:
 		# ...
         })
 ```
-
-## 2.2 Transform
