@@ -1,12 +1,12 @@
 # ETL-Job-Market-DA
 [Full ETL process to find out what is needed in the Data Analyst Job Market in Vietnam]
 
-As the Data Analyst job market becomes increasingly competitive, gaining deep insights into hiring demand is essential. To address this, I developed an automated system that provides insights into the Data Analyst job market in Vietnam.
+Khi thị trường Data Analyst ngày càng cạnh tranh, việc có một cái nhìn sâu sắc về nhu cầu tuyển dụng là vô cùng quan trọng. Để giải quyết bài toán này, em đã phát triển một hệ thống tự động nhằm cung cấp insight về thị trường việc làm DA tại Việt Nam.
 
-The project consists of three main parts:
+Project của em bao gồm các phần chính sau:
 
-- **Extract**: Crawled job postings from TopCV using Python.
+- **Extract**: dùng Python crawl dữ liệu từ web tuyển dụng TopCV.
 
-- **Transform**: Cleaned raw data and standardized key information fields.
+- **Transform**: làm sạch dữ liệu thô và chuẩn hóa lại các thông tin cần thiết quan trọng.
 
-- **Load**: Uploaded the processed data to Google Sheets via API, then built a minimalistic dashboard focusing on the most critical market indicators.
+- **Load**: dữ liệu tải lên Google Sheets thông qua API, từ đó em tạo ra một dashboard tối giản, tập trung vào chỉ số cốt lõi nhất về thị trường.
