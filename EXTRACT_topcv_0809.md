@@ -1,5 +1,3 @@
-# 2. Quy trình ETL
-
 Em đã kết hợp `Selenium` để xử lý các trang web động và `BeautifulSoup` để bóc tách, trích xuất dữ liệu từ HTML. 
 
 Ngoài ra, để tránh bị chặn bởi lỗi 429, em đã dùng thư viện `time` tạo khoảng nghỉ giữa các yêu cầu, giúp quá trình crawl ổn định hơn.
@@ -12,7 +10,6 @@ Lưu ý
 - Để **đơn giản hóa** và giúp mọi người dễ hình dung luồng xử lý chính, em đã **ẩn đi các lệnh** `time.sleep()` trong phần giải thích code
 </aside>
 
-## 2.1 Extract
 
 Em sẽ chia bài toán crawl data ra thành các phần nhỏ để mọi người có thể hiểu lối tư duy và hướng làm của em
 
