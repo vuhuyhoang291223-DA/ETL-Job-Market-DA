@@ -13,11 +13,8 @@ Project của em bao gồm các phần chính sau:
 
 ## Insights
 
-<aside>
     
 ###💡 **1/ Cấp độ tuyển dụng**
-
-</aside>
 
 Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kinh nghiệm (YOE)**.
 
