@@ -14,7 +14,7 @@ Project của em bao gồm các phần chính sau:
 ## Insights
 
     
-###💡 **1/ Cấp độ tuyển dụng**
+### **💡 1/ Cấp độ tuyển dụng**
 
 Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kinh nghiệm (YOE)**.
 
@@ -28,21 +28,17 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 
 ![image.png](attachment:b9f1b8ec-7b5b-4ffe-b5d3-091958098e54:image.png)
 
-<aside>
-    
-###💡 **2/ Địa điểm làm việc**
 
-</aside>
+    
+### **💡 2/ Địa điểm làm việc**
 
 - **TP.HCM & Hà Nội:** 300 jobs (**87.2%**)
 
 ![image.png](attachment:c3b0d16e-16ec-4dff-8bb0-92b1857eeaa6:image.png)
 
-<aside>
-    
-###💡 **3/ Ngành nghề** 
 
-</aside>
+    
+### **💡 3/ Ngành nghề** 
 
 - Ngành nghề IT áp đảo, ngoài ra còn có một số ngành nghề khác chiếm tỷ trọng lớn như Tài chính và Marketing
 
@@ -58,11 +54,9 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 
 ![image.png](attachment:5fe05346-9381-4f45-a136-eae340609947:image.png)
 
-<aside>
-    
-###💡 **4/ Công ty**
 
-</aside>
+    
+### **💡 4/ Công ty**
 
 - Một số công ty tuyển dụng nhiều nhất
 
@@ -78,11 +72,9 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 
 ![image.png](attachment:4a0131bd-2947-4aa3-8873-b6423f78442c:image.png)
 
-<aside>
-    
-###💡 **5/ Lương thưởng**
 
-</aside>
+    
+### **💡 5/ Lương thưởng**
 
 - Mức lương từ vị trí >3 năm kinh nghiệm cao hơn đáng kể so với nhóm 1-3 năm
 
@@ -90,11 +82,9 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 
 ![image.png](attachment:0fccf7e0-b74e-474d-96a4-add6e6f7bca6:image.png)
 
-<aside>
-    
-###💡 **6/ Technical Skills yêu cầu**
 
-</aside>
+    
+### **💡 6/ Technical Skills yêu cầu**
 
 - Bộ ba **Nền tảng**: SQL - Excel - Power BI
     - **SQL**: 129 jobs (37.5%)
@@ -111,11 +101,9 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 
 ![image.png](attachment:9b2ee217-871b-4927-b0ef-2c0bb6b209e8:image.png)
 
-<aside>
-    
-###💡 **7/ Chế độ phúc lợi**
 
-</aside>
+    
+### **💡 7/ Chế độ phúc lợi**
 
 - Các phúc lợi cơ bản đa số được đảm bảo: **Bảo hiểm (BHXH, BHYT), Thưởng (tháng 13, Lễ/Tết)**
 - Các công ty chú trọng vào việc cho nhân viên được đào tạo, học khóa học để nâng cao kỹ năng
