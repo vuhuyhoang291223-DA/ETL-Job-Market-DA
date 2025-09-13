@@ -15,7 +15,7 @@ Project của em bao gồm các phần chính sau:
 
 <aside>
     
-💡 **1/ Cấp độ tuyển dụng**
+###💡 **1/ Cấp độ tuyển dụng**
 
 </aside>
 
@@ -33,7 +33,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 
 <aside>
     
-💡 **2/ Địa điểm làm việc**
+###💡 **2/ Địa điểm làm việc**
 
 </aside>
 
@@ -43,7 +43,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 
 <aside>
     
-💡 **3/ Ngành nghề** 
+###💡 **3/ Ngành nghề** 
 
 </aside>
 
@@ -63,7 +63,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 
 <aside>
     
-💡 **4/ Công ty**
+###💡 **4/ Công ty**
 
 </aside>
 
@@ -83,7 +83,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 
 <aside>
     
-💡 **5/ Lương thưởng**
+###💡 **5/ Lương thưởng**
 
 </aside>
 
@@ -95,7 +95,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 
 <aside>
     
-💡 **6/ Technical Skills yêu cầu**
+###💡 **6/ Technical Skills yêu cầu**
 
 </aside>
 
@@ -116,7 +116,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 
 <aside>
     
-💡 **7/ Chế độ phúc lợi**
+###💡 **7/ Chế độ phúc lợi**
 
 </aside>
 
