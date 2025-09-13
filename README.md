@@ -26,7 +26,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 
 ⇒ Vẫn cởi mở cho người mới
 
-![image.png](attachment:b9f1b8ec-7b5b-4ffe-b5d3-091958098e54:image.png)
+<img width="1489" height="490" alt="Image" src="https://github.com/user-attachments/assets/f5a5842b-2153-42d8-bf93-7f73f40b6853" />
 
 
     
@@ -34,7 +34,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 
 - **TP.HCM & Hà Nội:** 300 jobs (**87.2%**)
 
-![image.png](attachment:c3b0d16e-16ec-4dff-8bb0-92b1857eeaa6:image.png)
+<img width="1483" height="490" alt="Image" src="https://github.com/user-attachments/assets/7c834402-c29a-49d1-96cf-9a36d154f337" />
 
 
     
@@ -52,7 +52,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
     - **Bán lẻ, tiêu dùng**: 19 jobs (5.5%)
     - **Dược phẩm, Y tế:** 14 jobs (4%)
 
-![image.png](attachment:5fe05346-9381-4f45-a136-eae340609947:image.png)
+<img width="1489" height="489" alt="Image" src="https://github.com/user-attachments/assets/5e35231d-9693-43c6-9515-47a367fc618e" />
 
 
     
@@ -60,7 +60,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 
 - Một số công ty tuyển dụng nhiều nhất
 
-![image.png](attachment:ef8de2cf-d655-4ece-872a-41cc51b32abd:image.png)
+<img width="1489" height="489" alt="Image" src="https://github.com/user-attachments/assets/c860f618-4ad5-474d-82c8-935913d4daef" />
 
 - **Tập đoàn (công ty >1000 nhân viên):** 186 jobs (54%)
 
@@ -70,7 +70,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 
 ⇒ Các doanh nghiệp nhỏ đang tích cực ứng dụng data để tối ưu vận hành và tìm kiếm cơ hội tăng trưởng.
 
-![image.png](attachment:4a0131bd-2947-4aa3-8873-b6423f78442c:image.png)
+<img width="1489" height="490" alt="Image" src="https://github.com/user-attachments/assets/712d0008-5dfe-42b0-86e8-50fb9dbca5fb" />
 
 
     
@@ -80,7 +80,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 
 ⇒ Tín hiệu tích cực: ngành DA có lộ trình phát triển rõ ràng và lương thưởng xứng đáng
 
-![image.png](attachment:0fccf7e0-b74e-474d-96a4-add6e6f7bca6:image.png)
+<img width="1489" height="490" alt="Image" src="https://github.com/user-attachments/assets/4f4c997c-6c92-4ee3-959e-5122c8fb07ca" />
 
 
     
@@ -99,7 +99,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 
 ⇒ Sự phát triển của vai trò **Analytics Engineer**
 
-![image.png](attachment:9b2ee217-871b-4927-b0ef-2c0bb6b209e8:image.png)
+<img width="1256" height="605" alt="Image" src="https://github.com/user-attachments/assets/a5b54425-db37-4f2f-b4b4-ad820873849d" />
 
 
     
@@ -107,3 +107,5 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 
 - Các phúc lợi cơ bản đa số được đảm bảo: **Bảo hiểm (BHXH, BHYT), Thưởng (tháng 13, Lễ/Tết)**
 - Các công ty chú trọng vào việc cho nhân viên được đào tạo, học khóa học để nâng cao kỹ năng
+
+<img width="1385" height="449" alt="Image" src="https://github.com/user-attachments/assets/05962804-1e79-4c77-94e8-20b064cdc2b8" />
