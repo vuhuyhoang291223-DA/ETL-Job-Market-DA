@@ -36,6 +36,8 @@ Khi muốn tăng tác với các vật thể, em sẽ sử dụng lệnh `.find_
 
 ```python
 finding = 'Data Analyst'
+# finding = 'Analyst'
+# finding = 'Phân tích'
 
 search = driver.find_element(By.XPATH, '//*[@id="keyword"]')
 search.send_keys(finding) 
