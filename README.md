@@ -14,6 +14,7 @@ Project của em bao gồm các phần chính sau:
 ## Insights
 
 <aside>
+    
 💡 **1/ Cấp độ tuyển dụng**
 
 </aside>
@@ -31,6 +32,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 ![image.png](attachment:b9f1b8ec-7b5b-4ffe-b5d3-091958098e54:image.png)
 
 <aside>
+    
 💡 **2/ Địa điểm làm việc**
 
 </aside>
@@ -40,6 +42,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 ![image.png](attachment:c3b0d16e-16ec-4dff-8bb0-92b1857eeaa6:image.png)
 
 <aside>
+    
 💡 **3/ Ngành nghề** 
 
 </aside>
@@ -59,6 +62,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 ![image.png](attachment:5fe05346-9381-4f45-a136-eae340609947:image.png)
 
 <aside>
+    
 💡 **4/ Công ty**
 
 </aside>
@@ -78,6 +82,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 ![image.png](attachment:4a0131bd-2947-4aa3-8873-b6423f78442c:image.png)
 
 <aside>
+    
 💡 **5/ Lương thưởng**
 
 </aside>
@@ -89,6 +94,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 ![image.png](attachment:0fccf7e0-b74e-474d-96a4-add6e6f7bca6:image.png)
 
 <aside>
+    
 💡 **6/ Technical Skills yêu cầu**
 
 </aside>
@@ -109,6 +115,7 @@ Nhu cầu tuyển dụng tập trung mạnh nhất vào nhóm có **1-3 năm kin
 ![image.png](attachment:9b2ee217-871b-4927-b0ef-2c0bb6b209e8:image.png)
 
 <aside>
+    
 💡 **7/ Chế độ phúc lợi**
 
 </aside>
