@@ -11,7 +11,15 @@ Project của em bao gồm các phần chính sau:
 
 - **Load**: dữ liệu tải lên Google Sheets thông qua API, từ đó em tạo ra một dashboard tối giản, tập trung vào chỉ số cốt lõi nhất về thị trường.
 
-## Insights
+## 1. Dashboard - Google Sheets
+
+Phía dưới là hình ảnh Dashboard trên Google Sheets
+
+Tuy nhiên để có thể có một cái nhìn cụ thể và có thể tương tác filters, mọi người có thể truy cập trực tiếp thông qua đường link sau: [Dashboard](https://docs.google.com/spreadsheets/d/1GJ1xw5WYdBKCCFBDVSMDevr7yNnQr0dcCcl8-FDWEYA/edit?gid=1237555201#gid=1237555201)
+
+<img width="1853" height="682" alt="Image" src="https://github.com/user-attachments/assets/71f5cb6e-9101-435f-8f4c-6901614d927f" />
+
+## 2. Insights
 
     
 ### **💡 1/ Cấp độ tuyển dụng**
